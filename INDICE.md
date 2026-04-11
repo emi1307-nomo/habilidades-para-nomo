@@ -86,4 +86,24 @@ Cada archivo `.md` en esta carpeta es una habilidad especializada. Para activarl
 
 ---
 
-> Carpeta instalada desde: https://github.com/coreyhaines31/marketingskills
+---
+
+## 🌐 Creación de Páginas Web
+
+Las habilidades de web están en la carpeta `web/`. Para activarlas escribe `/web/nombre-del-archivo`.
+
+| Archivo | Función |
+|---|---|
+| `web/ui-ux-pro-max.md` | Inteligencia de diseño UI/UX: 50+ estilos, 161 paletas, 57 tipografías, 99 pautas de UX. Para cualquier decisión visual de diseño web o mobile |
+| `web/ui-styling.md` | Crear interfaces con shadcn/ui + Tailwind CSS: componentes accesibles, dark mode, responsive, design systems con React/Next.js |
+| `web/design-system.md` | Arquitectura de tokens (primitivo→semántico→componente), variables CSS, escalas tipográficas y de espaciado, especificaciones de estados de componentes |
+
+**Cuándo usar cada uno:**
+- `/web/ui-ux-pro-max` → Decisiones de estilo, paleta, tipografía, layout, accesibilidad, UX
+- `/web/ui-styling` → Implementar componentes React/Next.js con shadcn/ui y Tailwind
+- `/web/design-system` → Crear o estructurar un sistema de diseño desde cero
+
+---
+
+> Habilidades de marketing desde: https://github.com/coreyhaines31/marketingskills  
+> Habilidades de web desde: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
