@@ -105,5 +105,16 @@ Las habilidades de web están en la carpeta `web/`. Para activarlas escribe `/we
 
 ---
 
+## 💻 Habilidades de Programación
+
+Las habilidades de programación están en la carpeta `programming/`. Para activarlas escribe `/programming/nombre-del-archivo`.
+
+Incluye: Next.js, React, backend, database, testing, debugging, AI prompting, design.
+
+Lea `programming/README.md` para la lista completa y organización.
+
+---
+
 > Habilidades de marketing desde: https://github.com/coreyhaines31/marketingskills  
 > Habilidades de web desde: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+> Habilidades de programación desde: skills instaladas en ~/.claude/skills/
