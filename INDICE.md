@@ -28,6 +28,13 @@ Skills en `web/` — para activar: `/web/nombre-del-archivo`
 | `web/ui-ux-pro-max.md` | 50+ estilos, 161 paletas, 57 tipografías — decisiones de diseño UI/UX |
 | `web/ui-styling.md` | shadcn/ui + Tailwind CSS — implementar componentes React/Next.js |
 | `web/design-system.md` | Tokens, variables CSS, escalas tipográficas — diseño sistemático |
+| `web/taste-skill/` | Framework UI/UX de alta agencia — bento grids, glassmorphism, spring physics |
+| `web/soft-skill/` | Experiencias visuales nivel agencia $150k+ — archetypes Ethereal Glass, Editorial Luxury |
+| `web/gpt-tasteskill/` | Landing pages award-winning con GSAP — AIDA, scroll-pinned, card stacking |
+| `web/minimalist-skill/` | UI editorial ultra-minimalista — tipografía como jerarquía, fondo bone |
+| `web/brutalist-skill/` | Brutalismo industrial — Swiss Industrial Print o Tactical Telemetry |
+| `web/redesign-skill/` | Upgrade de sitios existentes sin reescribir — scan, audit, fix |
+| `web/stitch-skill/` | Genera DESIGN.md como fuente de verdad visual del proyecto |
 
 ---
 
